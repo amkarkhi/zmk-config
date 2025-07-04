@@ -11,7 +11,8 @@
 
 / {
     keymap {
-        compatible = "zmk,keymap";
+        compatible = "zmk,keymap,display-led";
+        	
 
         default_layer {
 // ------------------------------------------------------------------------------------------------------------
